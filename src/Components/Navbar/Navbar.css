@@ -1,10 +1,26 @@
 .nav {
   display: flex;
-  justify-content: space-around;
+  margin-left: 5%;
+  margin-bottom: 5%;
 }
 
 .nav-link {
-  display: flex;
-  gap: 20px;
   align-items: baseline;
+}
+
+.link1 {
+  text-decoration: none;
+  color: grey;
+}
+
+.link2 {
+  text-decoration: none;
+  margin-left: 20%;
+  color: grey;
+}
+
+.img {
+  width: 3%;
+  height: 40px;
+  margin-top: 15px;
 }

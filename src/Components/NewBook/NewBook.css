@@ -1,0 +1,39 @@
+.ar {
+  width: 60%;
+  margin: auto;
+  margin-top: 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 95%;
+  margin-left: 50%;
+  gap: 10%;
+}
+
+input[type=text] {
+  width: 35%;
+  padding: 10px;
+  margin: 30px;
+}
+
+input::placeholder {
+  text-align: left;
+}
+
+#author {
+  margin-top: 1%;
+}
+
+button[type=submit] {
+  width: 15%;
+  padding: 10px;
+  margin-left: 4%;
+  border: none;
+  background-color: rgb(128, 247, 166);
+}
