@@ -1,16 +1,42 @@
-# Book-Store
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> A responsive Book Store webpage made with JavaScript, React and Webpack, made for a Microverse project
+# Book Store React
+
+> Book Store with react accept input for title and author.
 
 ## Built With
 
-- HTML, CSS, SASS, JavaScript, React, and Webpack
+- HTML & Css
+- React
 
-## Author
+## Live Demo (if available)
 
-👤 **Maximiliano Ungredda**
+ [Live Demo Link](on progres)
 
-- GitHub: [@renercrows](https://github.com/renercrows)
+
+## Getting Started
+- Make sure you have node installed on your local machine.
+
+step 1: Clone this repo locally using git in the command line and the following command
+
+git clone https://github.com/aron-helu/Book-Store-React.git
+
+Step 2: run npm install to download the necessary modules.
+
+step 3: run npm start to load the project.
+
+### Prerequisites
+
+Any html and css code editor like Vscode or Vim.
+
+
+## Authors
+
+👤 **Aaron Abraham**
+
+- GitHub: [@Aaron](https://github.com/aron-helu)
+
+- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
 
 ## 🤝 Contributing
@@ -19,14 +45,17 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Miroverse Inc.
+
 
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-=======
-dev
