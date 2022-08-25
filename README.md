@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Book Store React
 
 > Book Store with react accept input for title and author.
@@ -8,22 +6,11 @@
 
 - HTML & Css
 - React
+- Webpack
 
 ## Live Demo (if available)
 
  [Live Demo Link](on progres)
-
-
-## Getting Started
-- Make sure you have node installed on your local machine.
-
-step 1: Clone this repo locally using git in the command line and the following command
-
-git clone https://github.com/aron-helu/Book-Store-React.git
-
-Step 2: run npm install to download the necessary modules.
-
-step 3: run npm start to load the project.
 
 ### Prerequisites
 
@@ -32,19 +19,14 @@ Any html and css code editor like Vscode or Vim.
 
 ## Authors
 
-👤 **Aaron Abraham**
+👤 **Maximiliano Ungredda**
 
-- GitHub: [@Aaron](https://github.com/aron-helu)
-
-- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
+- GitHub: https://github.com/renercrows
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 
 
 ## Show your support
