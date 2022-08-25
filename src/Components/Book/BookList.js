@@ -13,7 +13,7 @@ const BookList = (props) => {
     <li>
       <h2>{title}</h2>
       <p>{author}</p>
-      <button className="ar" id="remove" type="button" onClick={clickHandler}>Remove</button>
+      <button className="aro" type="button" id="remove" onClick={clickHandler}>Remove</button>
     </li>
   );
 };
