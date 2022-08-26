@@ -2,6 +2,8 @@
 
 > Book Store with react accept input for title and author.
 
+![Screenshot](https://user-images.githubusercontent.com/98361289/186995996-55a8b5c2-b495-4a03-85f0-f92772617243.png)
+
 ## Built With
 
 - HTML & Css
