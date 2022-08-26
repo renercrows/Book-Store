@@ -8,7 +8,7 @@ const Categories = () => {
   const checkHandler = () => {
     dispatch(checkStatus());
   };
-  const Button = <button className="check" type="button" onClick={checkHandler}>Check status</button>;
+  const Button = <button className="category-button" type="button" onClick={checkHandler}>Check status</button>;
   return (
     <div>
       <h2 className="category-title">{categories}</h2>
